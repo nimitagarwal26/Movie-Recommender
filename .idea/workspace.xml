@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9eb5eb3-d73b-49d2-80cd-36f7c5be1809" name="Changes" comment="" />
+    <list default="true" id="74da0a94-4e0a-4d39-90ee-d3f6ef760e49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -23,9 +26,9 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2iWDRYrNUp9P4t6zypOsbvammqR" />
+  <component name="ProjectId" id="2iWDVagHgh7bDCxS7OglWFoRY8m" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +37,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Movie-Recommender"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -47,11 +51,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d9eb5eb3-d73b-49d2-80cd-36f7c5be1809" name="Changes" comment="" />
-      <created>1719597431805</created>
+      <changelist id="74da0a94-4e0a-4d39-90ee-d3f6ef760e49" name="Changes" comment="" />
+      <created>1719597463293</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1719597431805</updated>
+      <updated>1719597463293</updated>
     </task>
     <servers />
   </component>
